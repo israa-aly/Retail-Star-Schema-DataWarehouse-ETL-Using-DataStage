@@ -49,7 +49,7 @@ we have three dimensions product, retail, customer , fact table â€œtransactionsâ
 # 3) Analysis on the Retail_Data_Mart
 
 # Job 1
-![Q1](https://github.com/israa-aly/Retail-Star-Schema-DataWarehouse-ETL-Using-DataStage/assets/68852141/6c96b2e0-596d-4f03-b914-aa3a7cbbf809)
+![Q1](https://github.com/israa-aly/Retail-Star-Schema-ETL-Project-Using-DataStage/assets/68852141/5476a09f-780f-461d-9b0e-ddd80fcea980)
 # Job 2
 ![Q2](https://github.com/israa-aly/Retail-Star-Schema-DataWarehouse-ETL-Using-DataStage/assets/68852141/b522a3d2-5d01-4444-a84c-6ba825d5ba7c)
 
