@@ -1,0 +1,3 @@
+"customertype","TransactionCount"
+"citizen","96"
+"foriegn","21"
